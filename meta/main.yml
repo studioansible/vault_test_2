@@ -1,0 +1,18 @@
+galaxy_info:
+  role_name: testing_vault
+  author: A-studio
+  description: Testing A-studio
+  company: asf
+  issue_tracker_url: asfgaxv
+  license: qwert
+  min_ansible_version: 1.0.0
+  min_ansible_container_version: 1.0.1
+  github_branch: master
+  galaxy_tags:
+    - t1
+    - t2
+  platforms:
+    - name: Windows
+      versions:
+        - All
+dependencies: []
